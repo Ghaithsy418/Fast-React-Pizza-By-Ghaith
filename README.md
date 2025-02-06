@@ -1,8 +1,9 @@
-# React + Vite
+# My Humble Project (Fast React Pizza Co.) I Have made it while learning with Jonas :)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Firstly
 
-Currently, two official plugins are available:
+I have used React-router - Redux - React - Tailwind to make this project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Lastly
+
+I am Learning frontend skill everyday to become better and better plz if you read this send me a message :)
