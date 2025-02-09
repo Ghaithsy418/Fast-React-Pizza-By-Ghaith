@@ -19,7 +19,8 @@ function CreateOrder() {
   const navigation = useNavigation();
   const cart = useSelector(getCart);
   const isSubmitting = navigation.state === "submitting";
-  const priorityPrice = withPriority ? totalPrice * 0.2 : 0;
+  const totalCartPrice = useSelector(getTotalCartPrice);
+  const priorityPrice = withPriority ? totalCartPrice * 0.2 : 0;
   const totalPrice = useSelector(getTotalCartPrice) + priorityPrice;
   const dispatch = useDispatch();
 
